@@ -1,4 +1,4 @@
 ilovetheatre
 ============
 
-web application for theatre enthusiasts.  still in the air
+web service for theatre enthusiasts.  still in the air
